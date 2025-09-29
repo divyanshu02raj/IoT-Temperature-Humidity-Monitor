@@ -55,11 +55,16 @@ The system successfully provides real-time environmental data to both a local LC
       <img src="images/dashboard.png" alt="Blynk Web Dashboard" width="90%">
     </td>
   </tr>
-  <tr>
+ <tr>
     <td align="center" colspan="2">
       <b>Blynk Mobile Dashboard</b><br>
       <i>Access and monitor your data on-the-go with the mobile application.</i><br><br>
-      <img src="images/mobile-dashboard.png" alt="Blynk Mobile Dashboard" width="50%">
+      <table>
+        <tr>
+          <td align="center" width="50%"><img src="images/mobile-dashboard-1.png" alt="Blynk Mobile Dashboard - Gauges" width="90%"></td>
+          <td align="center" width="50%"><img src="images/mobile-dashboard-2.png" alt="Blynk Mobile Dashboard - Graphs" width="90%"></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -88,7 +93,7 @@ The system successfully provides real-time environmental data to both a local LC
     </td>
     <td align="center">
       <b>DHT11 Sensor</b><br><br>
-      <img src="images/dht11.jpg" alt="DHT11 Sensor" width="200">
+      <img src="images/DHT11.jpg" alt="DHT11 Sensor" width="200">
     </td>
     <td align="center">
       <b>16x2 I2C LCD</b><br><br>
