@@ -55,7 +55,7 @@ The system successfully provides real-time environmental data to both a local LC
       <img src="images/dashboard.png" alt="Blynk Web Dashboard" width="90%">
     </td>
   </tr>
- <tr>
+  <tr>
     <td align="center" colspan="2">
       <b>Blynk Mobile Dashboard</b><br>
       <i>Access and monitor your data on-the-go with the mobile application.</i><br><br>
@@ -68,7 +68,6 @@ The system successfully provides real-time environmental data to both a local LC
     </td>
   </tr>
 </table>
-
 ---
 
 ## Key Features
