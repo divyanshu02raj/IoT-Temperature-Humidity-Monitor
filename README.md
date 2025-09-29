@@ -15,6 +15,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/divyanshu02raj/IoT-Temperature-Humidity-Monitor/stargazers">
+    <img src="https://img.shields.io/github/stars/divyanshu02raj/IoT-Temperature-Humidity-Monitor?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/divyanshu02raj/IoT-Temperature-Humidity-Monitor/network/members">
+    <img src="https://img.shields.io/github/forks/divyanshu02raj/IoT-Temperature-Humidity-Monitor?style=social" alt="GitHub forks">
+  </a>
+</p>
 
 <p align="center">
   A smart IoT project using an ESP8266 NodeMCU and a DHT11 sensor to autonomously measure and display ambient temperature and humidity in real-time. Data is shown on a local 16x2 LCD and simultaneously transmitted to the Blynk IoT platform for remote monitoring. A key feature is its ability to function independently of network connectivity, ensuring the local display works immediately on power-up.
